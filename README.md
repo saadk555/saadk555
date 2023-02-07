@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saadk555
-- Security analyst (still learning) & Technical Support Engineer (2+ years)
+- Security | DevSecOps (still learning) & Technical Support Engineer (2+ years)
 - Currently learning cloud and it's security ...
 - Open for collobration on various security projects
 
