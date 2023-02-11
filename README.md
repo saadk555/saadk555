@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saadk555
-- Security | DevSecOps (still learning) & Technical Support Engineer (2+ years)
-- Currently learning cloud and it's security ...
-- Open for collobration on various security projects
+- DevSecOps | Python (still learning) & been in Technical Support | Sales for 2+ years
+- Open for collobration on any project that may come under my domain
 
 - 📫 How to reach me?
 Leave your message at my email & I'll get back to you
