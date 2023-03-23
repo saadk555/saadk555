@@ -1,4 +1,4 @@
-![alt text](https://github.com/saadk555/saadk555/blob/main/Black%20Ivory%20Minimalist%20Handwritten%20Lifestyle%20Blogger%20Name%20Logo.png)
+![alt text](https://github.com/saadk555/saadk555/blob/main/name.png)
 
 
 - 👋 Hi, I’m @saadk555
