@@ -15,9 +15,12 @@ Leave your message at my email & I'll get back to you
 
 
 
-## My Skills and Tools
+## My DEVOPS Skills and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,aws,azure,docker,kubernetes,bash,powershell,ansible,github,jenkins,githubactions,flask,nodejs,linux,mysql,c,grafana,heroku,regex,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,aws,azure,docker,kubernetes,bash,powershell,selenium,git,openshift,ansible,github,jenkins,githubactions,flask,nodejs,linux,mysql,c,grafana,heroku,regex)](https://skillicons.dev)
+
+#### Extra skills (ADD-ONS 😊) 
+[![My Graphic Skills](https://skillicons.dev/icons?i=ps,ai,pr,blender,sketchup,matlab,latex,wordpress)](https://skillicons.dev)
 
 -----------------------------------------------------
 
