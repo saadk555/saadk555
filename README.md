@@ -1,20 +1,36 @@
 ![alt text](https://github.com/saadk555/saadk555/blob/main/name.png)
 
 
-- 👋 Hi, I’m @saadk555
+-----------------------------------------------------
+
+
+ ### 👋 Hi, I’m @saadk555
 - DevSecOps | Python (still learning) & been in Technical Support | Sales for 2+ years
 - Open for collobration on any project that may come under my domain
 
 - 📫 How to reach me?
 Leave your message at my email & I'll get back to you
 
+-----------------------------------------------------
 
+
+
+## My Skills and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,aws,azure,docker,kubernetes,bash,powershell,ansible,github,jenkins,githubactions,flask,nodejs,linux,mysql,c,grafana,heroku,regex,wordpress)](https://skillicons.dev)
+
+-----------------------------------------------------
+
+# STATISTICS
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadk555&show_icons=true&theme=dracula&layout=compact" alt="saadk555" /></p>
-<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=saadk555&show_icons=true&locale=en&theme=dracula&layout=compact" alt="saadk555" /></p> </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadk555&show_icons=true&theme=dark&layout=compact" alt="saadk555" /></p>
+<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=saadk555&show_icons=true&locale=en&theme=dark&layout=compact" alt="saadk555" /></p> </div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saadk555&show_icons=true&theme=dracula&layout=compact" alt="saadk555" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saadk555&show_icons=true&theme=dark&layout=compact" alt="saadk555" /></p>
+
+
+
 
 
 
