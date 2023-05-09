@@ -45,11 +45,6 @@ Leave your message at my email & I'll get back to you
 <p> </p>
 <p> </p>
 <p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
 
 ### Show your 💛 with some CHEESE !!!
 <p><a href="https://www.buymeacoffee.com/saadkhan" target="_blank"><img align="bottom" src="https://github.com/saadk555/saadk555/blob/main/buymc-modified.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 230px !important;" ></a></p>
