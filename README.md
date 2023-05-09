@@ -28,7 +28,7 @@ Leave your message at my email & I'll get back to you
 
 <div>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saadk555&show_icons=true&theme=dark&layout=compact" alt="saadk555" /></p>
-<p>&nbsp;<img align="right" width="320" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saadk555&show_icons=true&locale=en&theme=dark&layout=compact" alt="saadk555"  /></p> </div>
+<p>&nbsp;<img align="right" width="420" height="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saadk555&show_icons=true&locale=en&theme=dark&layout=compact" alt="saadk555"  /></p> </div>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saadk555&show_icons=true&theme=dark&layout=compact" alt="saadk555" /></p>
 
 <p> </p>
