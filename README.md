@@ -26,9 +26,9 @@ Leave your message at my email & I'll get back to you
 
 # STATISTICS
 <div>
-<p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saadk555&show_icons=true&locale=en&theme=dark&layout=compact" alt="saadk555" /> </p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=saadk555&show_icons=true&locale=en&theme=dark&layout=compact" alt="saadk555" /> </p>
 <p> </p>
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saadk555&show_icons=true&theme=dark&layout=compact" alt="saadk555" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadk555&show_icons=true&theme=dark&layout=compact" alt="saadk555" /></p>
 </p>
 <p> </p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saadk555&show_icons=true&theme=dark&layout=compact" alt="saadk555" /></p> </div>
