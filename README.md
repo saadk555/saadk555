@@ -5,7 +5,7 @@
 
 
  ### 👋 Hi, I’m @saadk555
-- DevSecOps | Python (still learning) & been in Technical Support | Sales for 2+ years
+- DevOps | Python | MLOps (currently practicing)
 - Open for collobration on any project that may come under my domain
 
 - 📫 How to reach me?
